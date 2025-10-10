@@ -1,4 +1,4 @@
-[ENG](../README-END.md)
+[ENG](../README-ENG.md)
 # Радио МТУСИ
 <img src="../logo.png" width=128 />
 
